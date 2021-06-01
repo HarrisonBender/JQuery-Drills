@@ -1,0 +1,13 @@
+body {
+    font-size: x-large;
+    font-family: cursive;
+    background-color: cadetblue;
+    color: cornsilk;
+}
+
+li {
+    font-size: x-large;
+    border-color: cornsilk;
+    border-width: 2px;
+
+}
